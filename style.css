@@ -1,0 +1,13 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: linear-gradient(-180deg, #363062, #FFFFFF, #F5E8C7);
+  height: 100vh;
+  margin: 0;
+}
+
+canvas {
+  display: block;
+}
